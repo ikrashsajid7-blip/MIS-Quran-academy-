@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MIS Quran Academy - Online Quran Learning</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="MIS Quran Academy offers professional online Quran learning for children and adults. Join Nazra, Tajweed, and Hifz classes today!" />
+  <meta name="keywords" content="Quran, Online Quran, Hifz, Tajweed, Nazra, Quran Classes, Quran Academy, Online Islamic Learning" />
+  
+  <!-- Open Graph / Social Share -->
+  <meta property="og:title" content="MIS Quran Academy - Online Quran Learning" />
+  <meta property="og:description" content="Professional online Quran teaching for children and adults. Book your free demo today!" />
+  <meta property="og:image" content="https://example.com/professional-logo.png" />
+  <meta property="og:type" content="website" />
+  
+  <style>
+    /* Reset & Fonts */
+    body, h1, h2, h3, p { margin: 0; padding: 0; }
+    body { font-family: 'Arial', sans-serif; background: #fefefe; color: #222; line-height: 1.6; }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, #1B5E20, #43A047);
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+      background-image: url('https://example.com/islamic-pattern.png');
+      background-size: cover;
+      background-position: center;
+    }
+    header img { width: 120px; margin-bottom: 15px; }
+    header h1 { font-size: 40px; margin-bottom: 10px; font-weight: bold; }
+    header p { font-size: 20px; }
+
+    /* Navigation */
+    nav { background: #2E7D32; text-align: center; padding: 15px 0; }
+    nav a { color: white; margin: 0 20px; text-decoration: none; font-size: 18px; font-weight: 500; }
+    nav a:hover { text-decoration: underline; }
+
+    /* Section */
+    .section { max-width: 1000px; margin: 50px auto; padding: 0 20px; }
+    .section h2 { color: #1B5E20; font-size: 32px; margin-bottom: 25px; text-align: center; }
+    .section p { font-size: 17px; text-align: center; margin-bottom: 25px; }
+
+    /* Cards */
+    .services { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px,1fr)); gap: 25px; }
+    .card { background: white; padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s; }
+    .card:hover { transform: translateY(-5px); }
+    .card h3 { color: #1B5E20; margin-bottom: 12px; }
+
+    /* Form */
+    form { max-width: 600px; margin: auto; background: #fff; padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+    input, textarea { width: 100%; padding: 12px; margin: 12px 0; border-radius: 8px; border: 1px solid #ccc; font-size: 16px; }
+    button { background: #1B5E20; color: white; padding: 12px 25px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; transition: 0.3s; }
+    button:hover { background: #43A047; }
+
+    /* WhatsApp Button */
+    .whatsapp-btn { position: fixed; bottom: 25px; right: 25px; background: #25D366; color: white; padding: 18px 20px; border-radius: 50%; font-size: 22px; text-decoration: none; box-shadow: 0 5px 15px rgba(0,0,0,0.3); }
+
+    /* Footer */
+    footer { text-align: center; background: #1B5E20; color: white; padding: 20px 10px; margin-top: 50px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <img src="https://example.com/professional-logo.png" alt="MIS Quran Academy Logo" />
+  <h1>MIS Quran Academy</h1>
+  <p>Online Quran Learning • Tajweed • Hifz • Nazra</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#services">Services</a>
+  <a href="#teachers">Teachers</a>
+  <a href="#fees">Fees</a>
+  <a href="#demo">Demo Class</a>
+  <a href="#reviews">Reviews</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about" class="section">
+  <h2>About Us</h2>
+  <p>MIS Quran Academy provides professional online Quran learning for children and adults worldwide. Join our interactive classes for Nazra, Tajweed, and Hifz today!</p>
+</section>
+
+<section id="services" class="section">
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Quran Nazra</h3>
+      <p>Learn Quran reading fluently with expert teachers for all ages.</p>
+    </div>
+    <div class="card">
+      <h3>Hifz Program</h3>
+      <p>Complete Quran memorization program with daily guidance and support.</p>
+    </div>
+    <div class="card">
+      <h3>Tajweed Classes</h3>
+      <p>Master correct pronunciation and rules of Tajweed for perfect recitation.</p>
+    </div>
+    <div class="card">
+      <h3>One-on-One Classes</h3>
+      <p>Personalized lessons for best results and fast learning.</p>
+    </div>
+  </div>
+</section>
+
+<section id="teachers" class="section">
+  <h2>Our Qualified Teachers</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Ustad Abdul Hadi</h3>
+      <p>Hafiz-e-Quran • 8 years experience • Specialized in children teaching</p>
+    </div>
+    <div class="card">
+      <h3>Qari Muhammad Bilal</h3>
+      <p>Tajweed expert • Skilled in accurate pronunciation and recitation</p>
+    </div>
+    <div class="card">
+      <h3>Ustad Ahsan</h3>
+      <p>Expert in Nazra & Hifz • 5 years online teaching experience</p>
+    </div>
+  </div>
+</section>
+
+<section id="fees" class="section">
+  <h2>Fees Structure</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Basic Plan</h3>
+      <p>3 classes per week • 30 minutes each</p>
+      <p><strong>$20 / month</strong></p>
+    </div>
+    <div class="card">
+      <h3>Standard Plan</h3>
+      <p>5 classes per week • 30 minutes each</p>
+      <p><strong>$35 / month</strong></p>
+    </div>
+    <div class="card">
+      <h3>Hifz Plan</h3>
+      <p>Daily classes with full memorization support</p>
+      <p><strong>$50 / month</strong></p>
+    </div>
+  </div>
+</section>
+
+<section id="demo" class="section">
+  <h2>Book a Free Demo Class</h2>
+  <form>
+    <input type="text" placeholder="Full Name" required>
+    <input type="text" placeholder="WhatsApp Number" required>
+    <input type="text" placeholder="Preferred Time" required>
+    <button type="submit">Book Demo Class</button>
+  </form>
+</section>
+
+<section id="reviews" class="section">
+  <h2>Student Reviews</h2>
+  <div class="services">
+    <div class="card">
+      <p>“The teaching style is excellent. My child now reads Quran fluently!”</p>
+      <strong>- Parent Review</strong>
+    </div>
+    <div class="card">
+      <p>“Online classes improved my Tajweed significantly. Highly recommended!”</p>
+      <strong>- Student Review</strong>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <h2>Contact Us</h2>
+  <p>WhatsApp: <strong>+92 300 0000000</strong></p>
+  <p>Email: <strong>misquranacademy@gmail.com</strong></p>
+</section>
+
+<a class="whatsapp-btn" href="https://wa.me/923000000000" target="_blank">💬</a>
+
+<footer>
+  © 2025 MIS Quran Academy — All Rights Reserved
+</footer>
+
+</body>
+</html>
