@@ -185,3 +185,166 @@
 
 </body>
 </html>
+
+<meta name="description" content="MIS Quran Academy - Learn Quran online with Nazra, Tajweed, and Hifz classes.">
+<meta name="keywords" content="Quran, Tajweed, Nazra, Hifz, Online Quran Academy, Islamic Education">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MIS Quran Academy</title>
+  <meta name="description" content="MIS Quran Academy - Learn Quran online with Nazra, Tajweed, and Hifz classes.">
+  <meta name="keywords" content="Quran, Tajweed, Nazra, Hifz, Online Quran Academy, Islamic Education">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background: #34495e;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+    footer {
+      background: #2c3e50;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to MIS Quran Academy</h1>
+    <p>Professional online Quran learning platform for Nazra, Tajweed, and Hifz classes</p>
+  </header>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Courses</a>
+    <a href="#">Teachers</a>
+    <a href="#">Contact</a>
+  </nav>
+
+  <section>
+    <h2>Our Mission</h2>
+    <p>To provide authentic Quran education with proper Tajweed and guidance for all ages.</p>
+
+    <h2>Courses Offered</h2>
+    <ul style="list-style:none;">
+      <li>📖 Nazra Quran</li>
+      <li>🎙 Tajweed Classes</li>
+      <li>🕌 Hifz Program</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 MIS Quran Academy | Contact: info@misquranacademy.com</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MIS Quran Academy</title>
+  <style>
+    /* Full-page background */
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background-image: url('https://images.unsplash.com/photo-1580982334938-0e71d34b2fbb?q=80&w=1920&auto=format&fit=crop'); /* <-- apna image URL yahan */
+      background-size: cover;      /* image ko screen ke size ke mutabiq fit kare */
+      background-position: center; /* beech mein rakhe */
+      background-repeat: no-repeat;
+      background-attachment: fixed; /* parallax jaisa feel */
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Readability ke liye halka dark overlay */
+    .overlay {
+      background: rgba(0, 0, 0, 0.45);
+      min-height: 100vh;
+    }
+
+    header, main, footer {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 { margin-bottom: 8px; }
+    nav a {
+      color: #ffd27f;
+      margin: 0 12px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .card {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 8px;
+      padding: 16px;
+      backdrop-filter: blur(2px);
+      margin: 16px 0;
+    }
+    footer { font-size: 14px; opacity: 0.9; }
+  </style>
+</head>
+<body>
+  <div class="overlay">
+    <header>
+      <h1>Welcome to MIS Quran Academy</h1>
+      <p>Professional online Quran learning platform for Nazra, Tajweed, and Hifz classes</p>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">Courses</a>
+        <a href="#">Teachers</a>
+        <a href="#">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <div class="card">
+        <h2>Our Mission</h2>
+        <p>To provide authentic Quran education with proper Tajweed and guidance for all ages.</p>
+      </div>
+      <div class="card">
+        <h2>Courses Offered</h2>
+        <ul style="list-style:none; padding:0;">
+          <li>📖 Nazra Quran</li>
+          <li>🎙 Tajweed Classes</li>
+          <li>🕌 Hifz Program</li>
+        </ul>
+      </div>
+    </main>
+
+    <footer>
+      © 2025 MIS Quran Academy
+    </footer>
+  </div>
+</body>
+</html>
+
